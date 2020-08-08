@@ -1,0 +1,32 @@
+const proffys = [
+    { name: "Carlos Cenci",
+    avatar: "/images/ca.jpg",
+    whatsapp: "84994989429",
+    bio: "Entusiasta das melhores tecnologias de artes avançada.<br><br>Apaixonado por desenhar personagens de mangá e por mudar a vida das pessoas através de experiências e ensinamentos. Mais de 200.000 pessoas já passaram por um dos meus conselhos.",
+    subject: "Artes",
+    cost: "20" ,
+    weekday: [0],
+    time_from: [720],
+    time_to: [1200] 
+},
+    { name: "Isabella Fernandes",
+        avatar: "/images/isa.jpg",
+        whatsapp: "84994989429",
+        bio: "Entusiasta das melhores tecnologias de química avançada.<br><br>Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões.",
+        subject: "Física",
+        cost: "20" ,
+        weekday: [1],
+        time_from: [720],
+        time_to: [1200] 
+},
+    { name: "Gabriel Salvador",
+        avatar: "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+        whatsapp: "84994989429",
+        bio: "Entusiasta das melhores tecnologias de química avançada.<br><br>Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões.",
+        subject: "Matemática",
+        cost: "20" ,
+        weekday: [1],
+        time_from: [720],
+        time_to: [1200] 
+},
+]
